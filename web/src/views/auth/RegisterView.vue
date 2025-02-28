@@ -1,4 +1,4 @@
-<!-- web/src/views/auth/LoginView.vue -->
+<!-- web/src/views/auth/RegisterView.vue -->
 
 <template>
   <RegisterForm />
