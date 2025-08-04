@@ -49,7 +49,7 @@ const router = createRouter({
     {
       path: '/lists/:id',
       name: 'TaskList',
-      component: () => import('@/views/TaskListView.vue'),
+      component: () => import('@/views/TasklistView.vue'),
       meta: { requiresAuth: true },
       props: true,
     },
